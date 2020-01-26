@@ -1,0 +1,25 @@
+build
+dist
+.DS_Store
+__pycache__
+autom4te.cache
+htmlcov
+.coverage
+new-bindings
+.eggs
+wheel-dir
+test-results
+test-env
+testenv
+workenv
+docs/examples
+
+syntax: glob
+*.so
+*.egg-info
+*.dSYM
+*.pyc
+*.pyo
+*.orig
+unittest2-*.egg
+*.swp

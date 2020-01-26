@@ -1,0 +1,6 @@
+repo: b0dcf3af0dd565a749e56977236767c030d6a7ee
+node: b4448779a98bcca3d4cf492f0ea044edcb5511e4
+branch: default
+latesttag: pyobjc-6.1
+latesttagdistance: 13
+changessincelatesttag: 24
